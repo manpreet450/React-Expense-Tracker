@@ -63,7 +63,3 @@ It helps users track expenses efficiently with a clean UI and fast performance.
 Clone the project:
 ```bash
 git clone https://github.com/manpreet450/React-Expense-Tracker.git
-[4:26 p.m., 2026-01-23] Mani: npm install
-[4:26 p.m., 2026-01-23] Mani: Install dependencies:
-[4:26 p.m., 2026-01-23] Mani: Run the app:
-[4:26 p.m., 2026-01-23] Mani: npm run dev
