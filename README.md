@@ -15,7 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # React-Expense-Tracker
-[4:25 p.m., 2026-01-23] Mani: React Expense Tracker
+ React Expense Tracker
 
 A simple and responsive *Expense Tracker application* built using *React + Vite*.  
 It helps users track expenses efficiently with a clean UI and fast performance.
