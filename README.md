@@ -63,3 +63,8 @@ It helps users track expenses efficiently with a clean UI and fast performance.
 Clone the project:
 ```bash
 git clone https://github.com/manpreet450/React-Expense-Tracker.git
+Install dependencies: npm install
+
+
+ Run the app: npm run dev
+
