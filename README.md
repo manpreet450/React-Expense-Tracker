@@ -49,14 +49,14 @@ It helps users track expenses efficiently with a clean UI and fast performance.
 ---
 
 ## 📁 Project Structure
-[4:26 p.m., 2026-01-23] Mani: src/
+src/
 ├── components/
 ├── hooks/
 ├── assets/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-[4:26 p.m., 2026-01-23] Mani: ---
+
 
 ## 🧪 Run Locally
 
